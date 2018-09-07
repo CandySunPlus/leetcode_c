@@ -1,0 +1,1 @@
+# LeetCode use Pure C
